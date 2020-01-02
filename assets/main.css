@@ -35,8 +35,8 @@ body{
     width: 1000px;
 }
 
-a{color: #b8860b; text-decoration:none;}
-a.current{color: #52739e;}
+a{color: #6a6e6e; text-decoration:none;}
+a.current{color: #156666;}
 a:hover{color: #b2132e; text-decoration:none;}
 a.current:hover{color: #52739e;}
 h1,h2,h3,h4{clear:left; color: #19bcdd; margin:1.5em 0em 1em 0em; font-family:'Roboto Slab',serif;}
